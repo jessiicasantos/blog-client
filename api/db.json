@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "title": "Title Test",
+      "img": "https://images.unsplash.com/photo-1693323818873-bcf90d64b1fe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60",
+      "author": "Author Test",
+      "text": "Text Test",
+      "id": 4
+    },
+    {
+      "title": "Lorem Ipsum Dolor",
+      "img": "https://images.unsplash.com/photo-1693323818873-bcf90d64b1fe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60",
+      "author": "Random",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur dolor quo doloremque reiciendis eveniet, quod molestias fugiat! Aspernatur quia ipsum iure animi asperiores! Dolor facilis dignissimos quaerat eum ratione obcaecati!",
+      "id": 5
+    },
+    {
+      "title": "Teste de Titulo",
+      "author": "XD",
+      "img": "https://media.istockphoto.com/id/1611829659/pt/foto/machine-learning.webp?b=1&s=170667a&w=0&k=20&c=t97rLWgH0fWRZsOyTlUYQwkdynC9RbybKKcJtXTXriA=",
+      "content": "lorem ipsum",
+      "id": 6
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
